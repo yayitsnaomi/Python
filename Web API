@@ -1,0 +1,14 @@
+Exercise 1 – Web API
+
+Write a python program to do the following:
+1. Get one month of historical weather data (i.e. temperatures). In specific: one
+month of data for 5 distinct locations.
+2. You can use any WEB service available for free (tested site:
+http://api.wunderground.com/api) make sure to get an API-KEY if required.
+3. Build a data summary table that summaries max, min, and mean values of
+the temperature during that month for each location selected.
+4. Plot a graph that shows your data for the selected locations (to be used as
+comparative tool).
+
+ The only libraries to use for this exercise are: matplotlib, requests and python builtin
+data types.
